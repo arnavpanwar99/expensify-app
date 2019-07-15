@@ -1,0 +1,755 @@
+{
+  "dateTimeGMT": "2019-07-14T09:30:00.000Z",
+  "data": {
+    "fielding": [
+      {
+        "title": "Fielding for New Zealand Innings",
+        "scores": [
+          {
+            "name": "Liam Plunkett",
+            "runout": 0,
+            "stumped": 0,
+            "bowled": 1,
+            "lbw": 0,
+            "catch": 0,
+            "pid": "19264"
+          },
+          {
+            "name": "Chris Woakes",
+            "runout": 0,
+            "stumped": 0,
+            "bowled": 0,
+            "lbw": 1,
+            "catch": 0,
+            "pid": "247235"
+          },
+          {
+            "name": "James Vince",
+            "runout": 0,
+            "stumped": 0,
+            "bowled": 0,
+            "lbw": 0,
+            "catch": 2,
+            "pid": 296597
+          },
+          {
+            "name": "Joe Root",
+            "runout": 0,
+            "stumped": 0,
+            "bowled": 0,
+            "lbw": 0,
+            "catch": 1,
+            "pid": "303669"
+          },
+          {
+            "name": "Jos Buttler",
+            "runout": 0,
+            "stumped": 0,
+            "bowled": 0,
+            "lbw": 0,
+            "catch": 1,
+            "pid": "308967"
+          },
+          {
+            "name": "Mark Wood",
+            "runout": 0,
+            "stumped": 0,
+            "bowled": 0,
+            "lbw": 1,
+            "catch": 0,
+            "pid": "351588"
+          },
+          {
+            "name": "Jofra Archer",
+            "runout": 0,
+            "stumped": 0,
+            "bowled": 1,
+            "lbw": 0,
+            "catch": 0,
+            "pid": "669855"
+          }
+        ]
+      },
+      {
+        "title": "Fielding for England Innings",
+        "scores": [
+          {
+            "name": "Tim Southee",
+            "runout": 0,
+            "stumped": 0,
+            "bowled": 0,
+            "lbw": 0,
+            "catch": 1,
+            "pid": 232364
+          },
+          {
+            "name": "Trent Boult",
+            "runout": 2,
+            "stumped": 0,
+            "bowled": 0,
+            "lbw": 0,
+            "catch": 1,
+            "pid": "277912"
+          },
+          {
+            "name": "James Neesham",
+            "runout": 1,
+            "stumped": 0,
+            "bowled": 1,
+            "lbw": 0,
+            "catch": 0,
+            "pid": "355269"
+          },
+          {
+            "name": "Tom Latham",
+            "runout": 0,
+            "stumped": 0,
+            "bowled": 0,
+            "lbw": 0,
+            "catch": 3,
+            "pid": "388802"
+          },
+          {
+            "name": "Lockie Ferguson",
+            "runout": 0,
+            "stumped": 0,
+            "bowled": 1,
+            "lbw": 0,
+            "catch": 1,
+            "pid": "493773"
+          },
+          {
+            "name": "Mitchell Santner",
+            "runout": 1,
+            "stumped": 0,
+            "bowled": 0,
+            "lbw": 0,
+            "catch": 0,
+            "pid": "502714"
+          }
+        ]
+      }
+    ],
+    "bowling": [
+      {
+        "scores": [
+          {
+            "6s": 0,
+            "4s": 3,
+            "0s": 37,
+            "Econ": "4.11",
+            "W": "3",
+            "R": "37",
+            "M": "0",
+            "O": "9",
+            "bowler": "CR Woakes",
+            "pid": "247235"
+          },
+          {
+            "6s": 1,
+            "4s": 1,
+            "0s": 33,
+            "Econ": "4.20",
+            "W": "1",
+            "R": "42",
+            "M": "0",
+            "O": "10",
+            "bowler": "JC Archer",
+            "pid": "669855"
+          },
+          {
+            "6s": 0,
+            "4s": 4,
+            "0s": 36,
+            "Econ": "4.20",
+            "W": "3",
+            "R": "42",
+            "M": "0",
+            "O": "10",
+            "bowler": "LE Plunkett",
+            "pid": "19264"
+          },
+          {
+            "6s": 1,
+            "4s": 3,
+            "0s": 33,
+            "Econ": "4.90",
+            "W": "1",
+            "R": "49",
+            "M": "1",
+            "O": "10",
+            "bowler": "MA Wood",
+            "pid": "351588"
+          },
+          {
+            "6s": 0,
+            "4s": 1,
+            "0s": 15,
+            "Econ": "4.87",
+            "W": "0",
+            "R": "39",
+            "M": "0",
+            "O": "8",
+            "bowler": "AU Rashid",
+            "pid": "244497"
+          },
+          {
+            "6s": 0,
+            "4s": 2,
+            "0s": 6,
+            "Econ": "6.66",
+            "W": "0",
+            "R": "20",
+            "M": "0",
+            "O": "3",
+            "bowler": "BA Stokes",
+            "pid": "311158"
+          }
+        ],
+        "title": "Bowling To New Zealand Innings"
+      },
+      {
+        "scores": [
+          {
+            "6s": 1,
+            "4s": 8,
+            "0s": 31,
+            "Econ": "6.70",
+            "W": "0",
+            "R": "67",
+            "M": "0",
+            "O": "10",
+            "bowler": "TA Boult",
+            "pid": "277912"
+          },
+          {
+            "6s": 0,
+            "4s": 5,
+            "0s": 39,
+            "Econ": "4.00",
+            "W": "1",
+            "R": "40",
+            "M": "2",
+            "O": "10",
+            "bowler": "MJ Henry",
+            "pid": "506612"
+          },
+          {
+            "6s": 0,
+            "4s": 1,
+            "0s": 41,
+            "Econ": "2.50",
+            "W": "1",
+            "R": "25",
+            "M": "2",
+            "O": "10",
+            "bowler": "C de Grandhomme",
+            "pid": "55395"
+          },
+          {
+            "6s": 0,
+            "4s": 5,
+            "0s": 35,
+            "Econ": "5.00",
+            "W": "3",
+            "R": "50",
+            "M": "0",
+            "O": "10",
+            "bowler": "LH Ferguson",
+            "pid": "493773"
+          },
+          {
+            "6s": 1,
+            "4s": 3,
+            "0s": 19,
+            "Econ": "6.14",
+            "W": "3",
+            "R": "43",
+            "M": "0",
+            "O": "7",
+            "bowler": "JDS Neesham",
+            "pid": "355269"
+          },
+          {
+            "6s": 0,
+            "4s": 0,
+            "0s": 8,
+            "Econ": "3.66",
+            "W": "0",
+            "R": "11",
+            "M": "0",
+            "O": "3",
+            "bowler": "MJ Santner",
+            "pid": "502714"
+          }
+        ],
+        "title": "Bowling To England Innings"
+      }
+    ],
+    "batting": [
+      {
+        "scores": [
+          {
+            "dismissal-by": {
+              "name": "Chris Woakes",
+              "pid": "247235"
+            },
+            "dismissal": "lbw",
+            "SR": 105,
+            "6s": 1,
+            "4s": 2,
+            "B": 18,
+            "R": 19,
+            "dismissal-info": "lbw b Woakes",
+            "batsman": "MJ Guptill",
+            "pid": "226492"
+          },
+          {
+            "dismissal-by": {
+              "name": "Liam Plunkett",
+              "pid": "19264"
+            },
+            "dismissal": "bowled",
+            "SR": 71,
+            "6s": 0,
+            "4s": 4,
+            "B": 77,
+            "R": 55,
+            "dismissal-info": " b Plunkett",
+            "batsman": "HM Nicholls",
+            "pid": "539511"
+          },
+          {
+            "dismissal-by": {
+              "name": "Jos Buttler",
+              "pid": "308967"
+            },
+            "dismissal": "catch",
+            "SR": 56,
+            "6s": 0,
+            "4s": 2,
+            "B": 53,
+            "R": 30,
+            "dismissal-info": "c  Buttler b Plunkett",
+            "batsman": "KS Williamson (c)",
+            "pid": "277906"
+          },
+          {
+            "dismissal-by": {
+              "name": "Mark Wood",
+              "pid": "351588"
+            },
+            "dismissal": "lbw",
+            "SR": 48,
+            "6s": 0,
+            "4s": 0,
+            "B": 31,
+            "R": 15,
+            "dismissal-info": "lbw b Wood",
+            "batsman": "LRPL Taylor",
+            "pid": "38699"
+          },
+          {
+            "dismissal-by": {
+              "name": "James Vince",
+              "pid": 296597
+            },
+            "dismissal": "catch",
+            "SR": 83,
+            "6s": 1,
+            "4s": 2,
+            "B": 56,
+            "R": 47,
+            "dismissal-info": "c sub (JM Vince) b Woakes",
+            "batsman": "TWM Latham  ",
+            "pid": "388802"
+          },
+          {
+            "dismissal-by": {
+              "name": "Joe Root",
+              "pid": "303669"
+            },
+            "dismissal": "catch",
+            "SR": 76,
+            "6s": 0,
+            "4s": 3,
+            "B": 25,
+            "R": 19,
+            "dismissal-info": "c Root b Plunkett",
+            "batsman": "JDS Neesham",
+            "pid": "355269"
+          },
+          {
+            "dismissal-by": {
+              "name": "James Vince",
+              "pid": 296597
+            },
+            "dismissal": "catch",
+            "SR": 57,
+            "6s": 0,
+            "4s": 0,
+            "B": 28,
+            "R": 16,
+            "dismissal-info": "c sub (JM Vince) b Woakes",
+            "batsman": "C de Grandhomme",
+            "pid": "55395"
+          },
+          {
+            "dismissal": "not out",
+            "SR": 55,
+            "6s": 0,
+            "4s": 0,
+            "B": 9,
+            "R": 5,
+            "dismissal-info": "not out",
+            "batsman": "MJ Santner",
+            "pid": "502714"
+          },
+          {
+            "dismissal-by": {
+              "name": "Jofra Archer",
+              "pid": "669855"
+            },
+            "dismissal": "bowled",
+            "SR": 200,
+            "6s": 0,
+            "4s": 1,
+            "B": 2,
+            "R": 4,
+            "dismissal-info": " b Archer",
+            "batsman": "MJ Henry",
+            "pid": "506612"
+          },
+          {
+            "dismissal": "not out",
+            "SR": 50,
+            "6s": 0,
+            "4s": 0,
+            "B": 2,
+            "R": 1,
+            "dismissal-info": "not out",
+            "batsman": "TA Boult",
+            "pid": "277912"
+          },
+          {
+            "SR": "",
+            "6s": "",
+            "4s": "",
+            "B": "",
+            "R": "",
+            "dismissal-info": "",
+            "detail": "30 (lb 12, nb 1, w 17)",
+            "batsman": "Extras",
+            "pid": 0
+          }
+        ],
+        "title": "New Zealand Innings"
+      },
+      {
+        "scores": [
+          {
+            "dismissal-by": {
+              "name": "Tom Latham",
+              "pid": "388802"
+            },
+            "dismissal": "catch",
+            "SR": 85,
+            "6s": 0,
+            "4s": 3,
+            "B": 20,
+            "R": 17,
+            "dismissal-info": "c  Latham b Henry",
+            "batsman": "JJ Roy",
+            "pid": "298438"
+          },
+          {
+            "dismissal-by": {
+              "name": "Lockie Ferguson",
+              "pid": "493773"
+            },
+            "dismissal": "bowled",
+            "SR": 65,
+            "6s": 0,
+            "4s": 7,
+            "B": 55,
+            "R": 36,
+            "dismissal-info": " b Ferguson",
+            "batsman": "JM Bairstow",
+            "pid": "297433"
+          },
+          {
+            "dismissal-by": {
+              "name": "Tom Latham",
+              "pid": "388802"
+            },
+            "dismissal": "catch",
+            "SR": 23,
+            "6s": 0,
+            "4s": 0,
+            "B": 30,
+            "R": 7,
+            "dismissal-info": "c  Latham b de Grandhomme",
+            "batsman": "JE Root",
+            "pid": "303669"
+          },
+          {
+            "dismissal-by": {
+              "name": "Lockie Ferguson",
+              "pid": "493773"
+            },
+            "dismissal": "catch",
+            "SR": 40,
+            "6s": 0,
+            "4s": 0,
+            "B": 22,
+            "R": 9,
+            "dismissal-info": "c Ferguson b Neesham",
+            "batsman": "EJG Morgan (c)",
+            "pid": "24598"
+          },
+          {
+            "dismissal": "not out",
+            "SR": 85,
+            "6s": 2,
+            "4s": 5,
+            "B": 98,
+            "R": 84,
+            "dismissal-info": "not out",
+            "batsman": "BA Stokes",
+            "pid": "311158"
+          },
+          {
+            "dismissal-by": {
+              "name": "Tim Southee",
+              "pid": 232364
+            },
+            "dismissal": "catch",
+            "SR": 98,
+            "6s": 0,
+            "4s": 6,
+            "B": 60,
+            "R": 59,
+            "dismissal-info": "c sub (TG Southee) b Ferguson",
+            "batsman": "JC Buttler  ",
+            "pid": "308967"
+          },
+          {
+            "dismissal-by": {
+              "name": "Tom Latham",
+              "pid": "388802"
+            },
+            "dismissal": "catch",
+            "SR": 50,
+            "6s": 0,
+            "4s": 0,
+            "B": 4,
+            "R": 2,
+            "dismissal-info": "c  Latham b Ferguson",
+            "batsman": "CR Woakes",
+            "pid": "247235"
+          },
+          {
+            "dismissal-by": {
+              "name": "Trent Boult",
+              "pid": "277912"
+            },
+            "dismissal": "catch",
+            "SR": 100,
+            "6s": 0,
+            "4s": 1,
+            "B": 10,
+            "R": 10,
+            "dismissal-info": "c Boult b Neesham",
+            "batsman": "LE Plunkett",
+            "pid": "19264"
+          },
+          {
+            "dismissal-by": {
+              "name": "James Neesham",
+              "pid": "355269"
+            },
+            "dismissal": "bowled",
+            "SR": 0,
+            "6s": 0,
+            "4s": 0,
+            "B": 1,
+            "R": 0,
+            "dismissal-info": " b Neesham",
+            "batsman": "JC Archer",
+            "pid": "669855"
+          },
+          {
+            "dismissal-by": [
+              {
+                "name": "Mitchell Santner",
+                "pid": "502714"
+              },
+              {
+                "name": "Trent Boult",
+                "pid": "277912"
+              }
+            ],
+            "dismissal": "runout",
+            "SR": 0,
+            "6s": 0,
+            "4s": 0,
+            "B": 0,
+            "R": 0,
+            "dismissal-info": "run out (Santner/Boult)",
+            "batsman": "AU Rashid",
+            "pid": "244497"
+          },
+          {
+            "dismissal-by": [
+              {
+                "name": "James Neesham",
+                "pid": "355269"
+              },
+              {
+                "name": "Trent Boult",
+                "pid": "277912"
+              }
+            ],
+            "dismissal": "runout",
+            "SR": 0,
+            "6s": 0,
+            "4s": 0,
+            "B": 0,
+            "R": 0,
+            "dismissal-info": "run out (Neesham/Boult)",
+            "batsman": "MA Wood",
+            "pid": "351588"
+          },
+          {
+            "SR": "",
+            "6s": "",
+            "4s": "",
+            "B": "",
+            "R": "",
+            "dismissal-info": "",
+            "detail": "17 (b 2, lb 3, w 12)",
+            "batsman": "Extras",
+            "pid": 0
+          }
+        ],
+        "title": "England Innings"
+      }
+    ],
+    "team": [
+      {
+        "players": [
+          {
+            "name": "Jason Roy",
+            "pid": "298438"
+          },
+          {
+            "name": "Jonny Bairstow",
+            "pid": "297433"
+          },
+          {
+            "name": "Joe Root",
+            "pid": "303669"
+          },
+          {
+            "name": "Eoin Morgan",
+            "pid": "24598"
+          },
+          {
+            "name": "Ben Stokes",
+            "pid": "311158"
+          },
+          {
+            "name": "Jos Buttler",
+            "pid": "308967"
+          },
+          {
+            "name": "Chris Woakes",
+            "pid": "247235"
+          },
+          {
+            "name": "Liam Plunkett",
+            "pid": "19264"
+          },
+          {
+            "name": "Jofra Archer",
+            "pid": "669855"
+          },
+          {
+            "name": "Adil Rashid",
+            "pid": "244497"
+          },
+          {
+            "name": "Mark Wood",
+            "pid": "351588"
+          }
+        ],
+        "name": "England"
+      },
+      {
+        "players": [
+          {
+            "name": "Martin Guptill",
+            "pid": "226492"
+          },
+          {
+            "name": "Henry Nicholls",
+            "pid": "539511"
+          },
+          {
+            "name": "Kane Williamson",
+            "pid": "277906"
+          },
+          {
+            "name": "Ross Taylor",
+            "pid": "38699"
+          },
+          {
+            "name": "Tom Latham",
+            "pid": "388802"
+          },
+          {
+            "name": "James Neesham",
+            "pid": "355269"
+          },
+          {
+            "name": "Colin de Grandhomme",
+            "pid": "55395"
+          },
+          {
+            "name": "Mitchell Santner",
+            "pid": "502714"
+          },
+          {
+            "name": "Matt Henry",
+            "pid": "506612"
+          },
+          {
+            "name": "Trent Boult",
+            "pid": "277912"
+          },
+          {
+            "name": "Lockie Ferguson",
+            "pid": "493773"
+          }
+        ],
+        "name": "New Zealand"
+      }
+    ],
+    "man-of-the-match": {
+      "name": "Ben Stokes",
+      "pid": "311158"
+    },
+    "toss_winner_team": "New Zealand",
+    "matchStarted": true
+  },
+  "type": "ODI",
+  "cache3": true,
+  "creditsLeft": 218,
+  "v": "1",
+  "ttl": 6,
+  "provider": {
+    "source": "Various",
+    "url": "https://cricapi.com/",
+    "pubDate": "2019-07-15T15:05:06.817Z"
+  }
+}
